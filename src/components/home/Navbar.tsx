@@ -28,7 +28,7 @@ export const Navbar = () => {
               fill="white"
             />
           </div>
-          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">VidGenie</span>
+          <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400">Vidora AI</span>
         </div>
 
         <div className="hidden md:flex items-center gap-1 p-1 bg-white/10 rounded-full border border-white/10 backdrop-blur-sm">

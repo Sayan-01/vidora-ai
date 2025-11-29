@@ -33,7 +33,7 @@ export const Footer = () => {
                     <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-purple-500 to-pink-500 flex items-center justify-center">
                         <Sparkles className="w-5 h-5 text-white" fill="white" />
                     </div>
-                    <span className="text-xl font-bold">VidGenie</span>
+                    <span className="text-xl font-bold">Vidora AI</span>
                 </div>
             </div>
 
