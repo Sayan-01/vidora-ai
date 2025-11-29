@@ -13,5 +13,5 @@ A modern, responsive landing page for an AI video generation tool, built with Ne
 
 ## Deployment
 
--   **Live Demo**: [Deployed on Vercel](https://your-vercel-deployment-link.com)
+-   **Live Demo**: [Deployed on Vercel](https://vidora-ai-saas.vercel.app)
 -   **Source Code**: [View on GitHub](https://github.com/Sayan-01/vidora-ai)
